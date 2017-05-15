@@ -12,6 +12,4 @@ gunicorn
 # ----------------------
 # App
 # ----------------------
-
-python-twitter
-python-dateutil
+spotipy
